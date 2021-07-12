@@ -1,0 +1,2 @@
+rootProject.name = "HttpProcessor_20210705"
+include ':app'
